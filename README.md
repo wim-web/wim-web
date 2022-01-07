@@ -10,4 +10,4 @@
 
 [![Career](https://github-readme-stats.vercel.app/api/pin/?username=wim-web&repo=resume&theme=radical&border_radius=30&hide_border=true)](https://github.com/wim-web/resume)
 
-
+![aws_saa_badge](./.img/saa.png)
